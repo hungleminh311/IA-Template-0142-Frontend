@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Empowering Engineers and Developers to Take Calculated Risks for Unprecedented Growth",
+        "title": "Gamble Into Innovation"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Empowering Engineers and Developers to Take Calculated Risks for Unprecedented Growth",
+        "title": "Gamble Into Innovation"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Empowering Engineers and Developers to Take Calculated Risks for Unprecedented Growth",
+        "title": "Gamble Into Innovation"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Empowering Engineers and Developers to Take Calculated Risks for Unprecedented Growth",
+        "title": "Gamble Into Innovation"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Empowering Engineers and Developers to Take Calculated Risks for Unprecedented Growth",
+        "title": "Gamble Into Innovation"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Empowering Engineers and Developers to Take Calculated Risks for Unprecedented Growth",
+        "title": "Gamble Into Innovation"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Empowering Engineers and Developers to Take Calculated Risks for Unprecedented Growth",
+        "title": "Gamble Into Innovation"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Empowering Engineers and Developers to Take Calculated Risks for Unprecedented Growth",
+        "title": "Gamble Into Innovation"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Empowering Engineers and Developers to Take Calculated Risks for Unprecedented Growth",
+        "title": "Gamble Into Innovation"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Gamble Into Innovation",
+  "subtitle": "Empowering Engineers and Developers to Take Calculated Risks for Unprecedented Growth"
+}
